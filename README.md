@@ -1,5 +1,11 @@
 ## Hi there 👋
+Helloo there, <b><i>I am Sparsh Rastogi</i></b> and I am really passionate about coding and all the techy stuff and Hence exploring and learning as much as I can
+<br></br>
+These are my codeforces and leetcode ID stats for absolutely no reason, but as of now I am currently working on enhancing them
+<br></br>
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SParshR)
+</br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sparsh_Rastogi?theme=dark&font=M%20PLUS%201p)
 
 <!--
 **Sparsh-Rastogi/Sparsh-Rastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
