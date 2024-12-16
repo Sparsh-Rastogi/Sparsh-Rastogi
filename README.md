@@ -3,7 +3,7 @@ Helloo there, <b><i>I am Sparsh Rastogi</i></b> and I am really passionate about
 <br></br>
 These are my codeforces and leetcode ID stats for absolutely no reason, but as of now I am currently working on enhancing them
 <br></br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SParshR)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SParshR&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/SParshR)
 </br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sparsh_Rastogi?theme=dark&font=M%20PLUS%201p)
 
